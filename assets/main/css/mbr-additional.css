@@ -1,0 +1,239 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+
+
+
+
+
+
+
+
+#ext_menu-0 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-0 .navbar-brand {
+  font-size: 25px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-0 .nav-link {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-0 .navbar-nav .btn {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#slider-2 H2 {
+  text-align: center;
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-2 P {
+  text-align: center;
+}
+#msg-box3-8 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-8 .lead P {
+  text-align: left;
+  font-size: 21px;
+}
+#msg-box3-8 .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#msg-box3-8 .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box3-l .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-l .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-l .lead P {
+  text-align: left;
+}
+#msg-box3-l .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#content4-3 P {
+  font-size: 16px;
+  text-align: center;
+}
+#content4-3 H4 {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#msg-box5-m .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#msg-box5-m .btn {
+  font-size: 21px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts2-6 P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts2-6 STRONG {
+  font-size: 21px;
+}
+#footer1-7 P {
+  text-align: center;
+}
+
+
+
+
+#ext_menu-f .navbar-toggler {
+  color: #000;
+}
+#ext_menu-f .navbar-brand {
+  font-size: 25px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-f .nav-link {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-f .navbar-nav .btn {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box3-10 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-10 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-10 .lead P {
+  text-align: left;
+}
+#msg-box3-10 .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#contacts2-g P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts2-g STRONG {
+  font-size: 21px;
+}
+#footer1-h P {
+  text-align: center;
+}
+
+
+
+
+
+#ext_menu-9 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-9 .navbar-brand {
+  font-size: 25px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-9 .nav-link {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-9 .navbar-nav .btn {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header1-o H1 {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#content5-p .mbr-section-title {
+  text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#content5-p P {
+  text-align: center;
+}
+#contacts2-a P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts2-a STRONG {
+  font-size: 21px;
+}
+#footer1-b P {
+  text-align: center;
+}
+
+
+
+#ext_menu-i .navbar-toggler {
+  color: #000;
+}
+#ext_menu-i .navbar-brand {
+  font-size: 25px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-i .nav-link {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-i .navbar-nav .btn {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts2-j P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts2-j STRONG {
+  font-size: 21px;
+}
+#footer1-k P {
+  text-align: center;
+}
+
+
+
+
+#ext_menu-c .navbar-toggler {
+  color: #000;
+}
+#ext_menu-c .navbar-brand {
+  font-size: 25px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#ext_menu-c .nav-link {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-c .navbar-nav .btn {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box3-t .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-t .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-t .lead P {
+  text-align: left;
+}
+#msg-box3-t .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#contacts2-d P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts2-d STRONG {
+  font-size: 21px;
+}
+#footer1-e P {
+  text-align: center;
+}
